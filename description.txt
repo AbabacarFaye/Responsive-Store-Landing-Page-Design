@@ -1,0 +1,53 @@
+Features Implemented
+
+HTML Structure
+
+Header with navigation menu
+Hero section with call-to-action
+Product section with four product cards
+Features section highlighting store benefits
+Footer with multiple columns of information
+CSS Styling
+
+Modern color scheme with primary, secondary, and accent colors
+Clean typography with appropriate font weights
+Card hover effects for interactivity
+Consistent spacing and padding throughout
+Visual hierarchy with section titles and badges
+Product Section
+
+Four product cards with:
+High-quality product images
+Product titles
+Brief descriptions
+Pricing information
+"Shop Now" buttons
+Badges to highlight product status (New, Popular, Sale, Luxury)
+Responsive Design
+
+Fully responsive layout using Bootstrap's grid system
+Media queries for different screen sizes
+Mobile-friendly navigation with hamburger menu
+Adjusting font sizes and spacing for smaller screens
+Column rearrangement on mobile devices
+Bootstrap Integration
+
+Used Bootstrap for responsive grid layout
+Utilized Bootstrap components (navbar, cards, buttons)
+Implemented responsive breakpoints
+Enhanced styling with Bootstrap utility classes
+Additional Features
+
+Smooth scrolling navigation
+Sticky navigation bar
+Interactive hover effects
+Social media icons in footer
+Clean, modern design with consistent spacing
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AbabacarFaye/Responsive-Store-Landing-Page-Design.git
+git push -u origin main
